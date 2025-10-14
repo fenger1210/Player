@@ -713,14 +713,93 @@
 		"status": true
 	},
 	{
-		"id": "91",
-		"name": "🔞老鸭资源",
-		"logo": "",
-		"nsfw": true,
-		"api": {
-			"root": "https://api.apilyzy.com",
-			"path": "/api.php/provide/vod/"
-		},
-		"status": true
-	}
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "name": "🔞老鸭资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://www.xrbsp.com/api/json.php",
+    "name": "🔞淫水机资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "name": "🔞番号资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://155api.com/api.php/provide/vod/",
+    "name": "🔞155资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://155api.com/api.php/provide/vod/at/json",
+    "name": "🔞155资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://jkunzyapi.com/api.php/provide/vod/",
+    "name": "🔞鸡坤资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://www.pgxdy.com/api/json.php",
+    "name": "🔞黄AV资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://www.gdlsp.com/api/json.php",
+    "name": "🔞香奶儿资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://www.msnii.com/api/json.php",
+    "name": "🔞美少女资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://www.kxgav.com/api/json.php",
+    "name": "🔞白嫖资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://lbapi9.com/api.php/provide/vod/",
+    "name": "🔞乐播资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json",
+    "name": "🔞乐播资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://api.ddapi.cc/api.php/provide/vod/",
+    "name": "🔞滴滴资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+    "name": "🔞滴滴资源",
+    "nsfw": true,
+    "status": true
+  },
+  {
+    "api": "https://www.jingpinx.com/api.php/provide/vod/",
+    "name": "🔞精品资源",
+    "nsfw": true,
+    "status": true
+  }
 ]
