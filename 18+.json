@@ -244,6 +244,12 @@
 		"name": "精品资源",
 		"api": "https://www.jingpinx.com/api.php/provide/vod/",
 		"nsfw": true
+	},
+	{
+	"api":"vod/js/Jin_missav.js",
+	"name":"[禁] missav",
+	"instance":"missav20240627",
+	"webSite":"https://missav.ai",
 	}
 
 ]
