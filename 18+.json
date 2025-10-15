@@ -246,7 +246,7 @@
         "api": "https://api.bwzyz.com/api.php/provide/vod",
         "nsfw": true
     },
-	{
+	   {
         "name": "AV-91麻豆",
         "api": "https://91md.me/api.php/provide/vod",
         "nsfw": true
@@ -336,7 +336,6 @@
         "api": "https://apilj.com/api.php/provide/vod",
         "nsfw": true
     },
-  
     {
         "name": "AV-鲨鱼资源",
         "api": "https://shayuapi.com/api.php/provide/vod",
@@ -347,7 +346,7 @@
         "api": "https://www.pgxdy.com/api/json.php",
         "nsfw": true
     },
-	{
+	   {
         "name": "快播资源网站",
         "api": "https://gayapi.com/api.php/provide/vod",
         "nsfw": true
@@ -367,18 +366,17 @@
         "api": "https://slapibf.com/api.php/provide/vod",
         "nsfw": true
     },
-	{
+	   {
         "name": "黄色资源啊啊",
         "api": "https://hsckzy888.com/api.php/provide/vod",
         "nsfw": true
     },
-   
-	{
+	   {
         "name": "辣椒资源黄黄",
         "api": "https://apilj.com/api.php/provide",
         "nsfw": true
     },
-	{
+	   {
         "name": "细胞采集黄色",
         "api": "https://www.xxibaozyw.com/api.php/provide/vod",
         "nsfw": true
