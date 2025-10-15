@@ -250,6 +250,17 @@
 	"name": "[禁] missav",
 	"instance": "missav20240627",
 	"webSite": "https://missav.ai",
+	"remark": "",
+	"noHistory": false,
+	"userAgent": "",
+	"displayClassList": [],
+	"blockClassList": [],
+	"isLock": false,
+	"uiType": 0,
+	"codeID": "",
+	"env": "",
+	"version": 2,
+	"type": 100
 	}
 
 ]
