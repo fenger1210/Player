@@ -165,11 +165,6 @@
 		"nsfw": true
 	},
 	{
-		"name": "CK资源",
-		"api": "https://ckzy.me/api.php/provide/vod/",
-		"nsfw": true
-	},
-	{
 		"name": "91视频",
 		"api": "https://91av.cyou/api.php/provide/vod/",
 		"nsfw": true
