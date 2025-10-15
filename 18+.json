@@ -382,6 +382,6 @@
         "name": "细胞采集黄色",
         "api": "https://www.xxibaozyw.com/api.php/provide/vod",
         "nsfw": true
-    },
+    }
 
 ]
