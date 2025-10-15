@@ -349,7 +349,6 @@
   {
     "api": "https://www.jingpinx.com/api.php/provide/vod/",
     "name": "🔞精品资源",
-    "nsfw": true,
-    "status": true
+    "nsfw": true
   }
 ]
