@@ -377,11 +377,6 @@
 "nsfw": false
 },
 {
-"name": "39影视",
-"api": "https://www.39kan.com/api.php/provide/vod/",
-"nsfw": false
-},
-{
 "name": "雨哥哥影视",
 "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
 "nsfw": false
@@ -429,11 +424,6 @@
 {
 "name": "量子源",
 "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/json",
-"nsfw": false
-},
-{
-"name": "小猫咪",
-"api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
 "nsfw": false
 },
 {
