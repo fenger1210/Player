@@ -174,11 +174,7 @@
 		"api": "https://91av.cyou/api.php/provide/vod/",
 		"nsfw": true
 	},
-	{
-		"name": "老鸭资源",
-		"api": "https://api.apilyzy.com/api.php/provide/vod/",
-		"nsfw": true
-	},
+
 	{
 		"name": "淫水机资源",
 		"api": "https://www.xrbsp.com/api/json.php",
