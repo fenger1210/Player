@@ -1,9 +1,10 @@
 [
   {
     "name": "",
-    "logo": "",
+    "api": "",
     "nsfw": false,
-    "api": ""
+    "isLock": true
+    
   },
   
 ]
