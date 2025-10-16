@@ -5,7 +5,7 @@
     "instance": "madou20240626",
     "order": "E",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_madou.js",
-    "isLock": true
+    "isLock": true,
     "type": 100
   },
   {
@@ -15,7 +15,7 @@
     "instance": "hkdoll20240705",
     "order": "E",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_hkdoll.js",
-    "isLock": true
+    "isLock": true,
     "type": 100
   },
   {
@@ -24,7 +24,7 @@
     "webSite": "https://041.bndmpsjx.com",
     "order": "E",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_91jav.js",
-    "isLock": true
+    "isLock": true,
     "type": 101
   },
   {
@@ -34,7 +34,7 @@
     "instance": "jable20240831",
     "order": "E",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_jable.js",
-    "isLock": true
+    "isLock": true,
     "type": 100
   },
   {
@@ -44,7 +44,7 @@
     "instance": "missav20240627",
     "order": "E",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_missav.js",
-    "isLock": true
+    "isLock": true,
     "type": 100
   },
   {
@@ -54,7 +54,7 @@
     "instance": "netflav20240905",
     "order": "E",
     "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_netflav.js",
-    "isLock": true
+    "isLock": true,
     "type": 100
   }
 
