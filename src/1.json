@@ -508,5 +508,38 @@
     "name": "爱坤资源",
     "api": "https://ikunzyapi.com/api.php/provide/vod/",
     "nsfw": false
-  }
+  },
+  {
+    "name": "优质资源库",
+    "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+    "nsfw": false
+  },
+  {
+    "name": "黑木耳",
+    "api": "https://json.heimuer.xyz/api.php/provide/vod",
+    "nsfw": false
+  },
+  {
+    "name": "黑木耳点播",
+    "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+    "nsfw": false
+  },
+  {
+    "name": "爱短剧.cc",
+    "api": "https://www.aiduanju.cc/",
+    "nsfw": false
+  },
+  {
+    "name": "华为吧",
+    "api": "https://cjhwba.com/api.php/provide/vod/",
+    "nsfw": false
+  },
+  {
+    "name": "饭团影视",
+    "api": "https://www.fantuan.tv/api.php/provide/vod/",
+    "nsfw": false
+    }
+    
+    
+  
 ]
