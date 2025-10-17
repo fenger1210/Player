@@ -1,0 +1,164 @@
+[
+	{
+		"name": "巴猫资源",
+		"api": "https://api.maozyapi.com/inc/apijison_vod.php",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "快爱资源",
+		"api": "http://kuaiavzy.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "Alvin",
+		"api": "http://bapiby.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "Alvin (json)",
+		"api": "http://bapiby.com/api.php/provide/vod/at/json",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "成人资源",
+		"api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "18久久热",
+		"api": "https://99reapi.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "甜蜜资源",
+		"api": "https://timizy10.cc/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "橘猫资源",
+		"api": "https://to.to-long.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "天美资源",
+		"api": "https://tmyy.cc/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "精东资源",
+		"api": "http://chujia.cc/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "狼友资源",
+		"api": "https://api.lyhapi.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "番二资源",
+		"api": "http://f2dcj6.com/sapi?ac=videolist",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "滴滴资源",
+		"api": "https://api.ddapi.cc/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "滴滴资源（json）",
+		"api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "乐播资源",
+		"api": "https://bapi9.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "乐播资源（json）",
+		"api": "https://lbapi9.com/api.php/provide/vod/at/json",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "雪豹资源",
+		"api": "https://api.xbapi.cc/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "KK写真",
+		"api": "https://kkzy.me/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "易看资源",
+		"api": "https://api.yikanapi.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "辣椒资源",
+		"api": "http://api.11bat.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "91ME",
+		"api": "https://91md.me/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "91麻豆 (mdm3u8)",
+		"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "皇冠资源",
+		"api": "https://hghhh.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "皇冠资源 (json)",
+		"api": "https://hghhh.com/api.php/provide/vod/at/json",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "极品资源",
+		"api": "https://jpzy.me/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "精品资源",
+		"api": "https://www.jingpinx.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	},
+	{
+		"name": "森林资源",
+		"api": "https://slapibf.com/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	}
+]
