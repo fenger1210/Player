@@ -387,12 +387,6 @@
 		"isLock": true
     },
     {
-        "name": "AV-辣椒资源",
-        "api": "https://apilj.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
         "name": "AV-鲨鱼资源",
         "api": "https://shayuapi.com/api.php/provide/vod",
         "nsfw": true,
@@ -425,12 +419,6 @@
     {
         "name": "黄色资源啊啊",
         "api": "https://hsckzy888.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "辣椒资源黄黄",
-        "api": "https://apilj.com/api.php/provide",
         "nsfw": true,
 		"isLock": true
     },
