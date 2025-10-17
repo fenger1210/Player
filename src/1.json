@@ -71,30 +71,15 @@
 		"nsfw": true,
 		"isLock": true
 	},
-	{
-		"name": "滴滴资源",
-		"api": "https://api.ddapi.cc/api.php/provide/vod/",
-		"nsfw": true,
-		"isLock": true
-	},
-	{
-		"name": "滴滴资源（json）",
-		"api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
-		"nsfw": true,
-		"isLock": true
-	},
+	
+	
 	{
 		"name": "乐播资源",
 		"api": "https://bapi9.com/api.php/provide/vod/",
 		"nsfw": true,
 		"isLock": true
 	},
-	{
-		"name": "乐播资源（json）",
-		"api": "https://lbapi9.com/api.php/provide/vod/at/json",
-		"nsfw": true,
-		"isLock": true
-	},
+	
 	{
 		"name": "雪豹资源",
 		"api": "https://api.xbapi.cc/api.php/provide/vod/",
@@ -119,12 +104,7 @@
 		"nsfw": true,
 		"isLock": true
 	},
-	{
-		"name": "91ME",
-		"api": "https://91md.me/api.php/provide/vod/",
-		"nsfw": true,
-		"isLock": true
-	},
+	
 	{
 		"name": "91麻豆 (mdm3u8)",
 		"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
@@ -148,17 +128,7 @@
 		"api": "https://jpzy.me/api.php/provide/vod/",
 		"nsfw": true,
 		"isLock": true
-	},
-	{
-		"name": "精品资源",
-		"api": "https://www.jingpinx.com/api.php/provide/vod/",
-		"nsfw": true,
-		"isLock": true
-	},
-	{
-		"name": "森林资源",
-		"api": "https://slapibf.com/api.php/provide/vod/",
-		"nsfw": true,
-		"isLock": true
 	}
+	
+	
 ]
