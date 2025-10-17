@@ -385,11 +385,6 @@
     "nsfw": false
   },
   {
-    "name": "小猫咪资源",
-    "api": "https://zy.xmm.hk/api.php/provide/vod",
-    "nsfw": false
-  },
-  {
     "name": "旺旺资源",
     "api": "https://api.wwzy.tv/api.php/provide/vod",
     "nsfw": false
