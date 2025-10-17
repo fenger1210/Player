@@ -445,6 +445,30 @@
         "api": "https://www.xxibaozyw.com/api.php/provide/vod",
         "nsfw": true,
 		"isLock": true
-    }
+    },
+				{
+		"name": "天美资源",
+		"api": "https://tmyy.cc/api.php/provide/vod/",
+		"nsfw": true,
+		"isLock": true
+	  },
+	  {
+		   "name": "精东资源",
+		   "api": "",
+		   "nsfw": true,
+		   "isLock": true
+	  },
+	  {
+		   "name": "辣椒资源",
+		   "api": "http://api.11bat.com/api.php/provide/vod/",
+		   "nsfw": true,
+		   "isLock": true
+	  },
+	  {
+		   "name": "91麻豆",
+	   	"api": "https://91md.me/api.php/provide/vod/",
+		   "nsfw": true,
+		   "isLock": true
+  	}
 
 ]
