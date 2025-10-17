@@ -1,0 +1,61 @@
+[{
+    "name": "麻豆",
+    "version": 2,
+    "webSite": "https://madou.club",
+    "instance": "madou20240626",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_madou.js",
+    "isLock": true,
+    "type": 100
+  },
+  {
+    "name": "玩偶姐姐",
+    "version": 2,
+    "webSite": "https://hongkongdollvideo.com",
+    "instance": "hkdoll20240705",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_hkdoll.js",
+    "isLock": true,
+    "type": 100
+  },
+  {
+    "name": "91jav",
+    "version": 3,
+    "webSite": "https://041.bndmpsjx.com",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_91jav.js",
+    "isLock": true,
+    "type": 101
+  },
+  {
+    "name": "jable",
+    "version": 3,
+    "webSite": "https://jable.tv",
+    "instance": "jable20240831",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_jable.js",
+    "isLock": true,
+    "type": 100
+  },
+  {
+    "name": "missav",
+    "version": 2,
+    "webSite": "https://missav.ai",
+    "instance": "missav20240627",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_missav.js",
+    "isLock": true,
+    "type": 100
+  },
+  {
+    "name": "netflav",
+    "version": 2,
+    "webSite": "https://www.netflav.com",
+    "instance": "netflav20240905",
+    "order": "E",
+    "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jin_netflav.js",
+    "isLock": true,
+    "type": 100
+  }
+
+]
