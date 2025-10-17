@@ -76,7 +76,7 @@
   },
   {
     "name": "电影天堂",
-    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
     "nsfw": false
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "name": "如意资源",
-    "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
     "nsfw": false
   },
   {
