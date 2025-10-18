@@ -246,7 +246,13 @@
 		   "api": "http://api.11bat.com/api.php/provide/vod",
 		   "nsfw": true,
 		   "isLock": true
-	  }
+	  },
+			{
+		   "name": "麻豆映画",
+		   "api": "https://okzy.cc/api.php/provide/vod",
+		   "nsfw": true,
+		   "isLock": true
+			
 	  
 
 ]
