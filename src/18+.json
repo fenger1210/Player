@@ -31,7 +31,7 @@
 	},
 	{
 		"name": "黄色仓库资源",
-		"api": "https://hsckzy888.com/api.php/provide/vod",
+		"api": "https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/",
 		"nsfw": true,
 		"isLock": true
 	},
