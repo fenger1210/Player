@@ -71,7 +71,7 @@
   },
   {
     "name": "电影天堂",
-    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml",
+    "api": "http://dyttzy2.tv//api.php/provide/vod",
     "nsfw": false
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "name": "非凡资源",
-    "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml",
+    "api": "http://ffzy1.tv/api.php/provide/vod",
     "nsfw": false
   },
   {
@@ -192,11 +192,6 @@
   {
     "name": "魔爪资源",
     "api": "https://mozhuazy.com/api.php/provide/vod",
-    "nsfw": false
-  },
-  {
-    "name": "淘片资源",
-    "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
     "nsfw": false
   },
   {
