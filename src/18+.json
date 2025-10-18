@@ -7,7 +7,7 @@
 	},
 	{
 		"name": "杏吧资源",
-		"api": "https://xingba222.com/api.php/provide/vod/at/xml",
+		"api": "https://xingba222.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
