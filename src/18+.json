@@ -303,13 +303,6 @@
 		"isLock": true
     },
     {
-        "name": "快播资源网站",
-        "api": "https://gayapi.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    
-    {
         "name": "黄色资源",
         "api": "https://hsckzy888.com/api.php/provide/vod",
         "nsfw": true,
