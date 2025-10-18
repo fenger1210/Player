@@ -276,12 +276,6 @@
 		   "api": "https://fqzy.me/api.php/provide/vod",
 		   "nsfw": true,
 		   "isLock": true
-				},
-				{
-		   "name": "",
-		   "api": "",
-		   "nsfw": true,
-		   "isLock": true
 				}
 				
 					
