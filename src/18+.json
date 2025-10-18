@@ -11,12 +11,7 @@
 		"nsfw": true,
 		"isLock": true
 	},
-	{
-		"name": "美少女资源",
-		"api": "https://www.msnii.com/api/xml.php",
-		"nsfw": true,
-		"isLock": true
-	},
+
 	{
 		"name": "滴滴资源",
 		"api": "https://api.ddapi.cc/api.php/provide/vod/",
@@ -69,7 +64,7 @@
 	},
 	{
 		"name": "老色逼资源",
-		"api": "https://apilsbzy1.com/api.php/provide/vod/",
+		"api": "https://apilsbzy1.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
@@ -105,7 +100,7 @@
 	},
 	{
 		"name": "百花资源",
-		"api": "https://bhziyuan.com/api.php/provide/vod/at/xml",
+		"api": "https://bhziyuan.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
@@ -122,12 +117,6 @@
 		"isLock": true
 	},
 	{
-		"name": "黄AV资源",
-		"api": "https://www.pgxdy.com/api/xml.php",
-		"nsfw": true,
-		"isLock": true
-	},
-	{
 		"name": "精品资源",
 		"api": "https://www.jingpinx.com/api.php/provide/vod/",
 		"nsfw": true,
@@ -135,13 +124,13 @@
 	},
 	{
 		"name": "鲨鱼资源",
-		"api": "https://shayuapi.com/api.php/provide/vod/",
+		"api": "https://shayuapi.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
 	{
 		"name": "玉兔资源",
-		"api": "https://apiyutu.com/api.php/provide/vod/",
+		"api": "https://apiyutu.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
@@ -159,31 +148,31 @@
 	},
 	{
 		"name": "优异资源",
-		"api": "https://a.uezy.pw/api.php/provide/vod/",
+		"api": "https://a.uezy.pw/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
 	{
 		"name": "91视频",
-		"api": "https://91av.cyou/api.php/provide/vod/",
+		"api": "https://91av.cyou/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
 	{
 		"name": "番号资源",
-		"api": "http://fhapi9.com/api.php/provide/vod/",
+		"api": "http://fhapi9.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
 	{
 		"name": "155资源",
-		"api": "https://155api.com/api.php/provide/vod/",
+		"api": "https://155api.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
 	{
 		"name": "鸡坤资源",
-		"api": "https://jkunzyapi.com/api.php/provide/vod/",
+		"api": "https://jkunzyapi.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
@@ -202,7 +191,7 @@
 	},
 	{
 		"name": "乐播资源",
-		"api": "https://lbapi9.com/api.php/provide/vod/",
+		"api": "https://lbapi9.com/api.php/provide/vod",
 		"nsfw": true,
 		"isLock": true
 	},
@@ -218,72 +207,22 @@
         "nsfw": true,
 		"isLock": true
     },
-    {
-        "name": "AV-AIvin",
-        "api": "http://lbapiby.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "AV-JKUN资源",
-        "api": "https://jkunzyapi.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "AV-souav资源",
-        "api": "https://api.souavzy.vip/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "AV-乐播资源",
-        "api": "https://lbapi9.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
+    
+    
     {
         "name": "AV-奥斯卡资源",
         "api": "https://aosikazy.com/api.php/provide/vod",
         "nsfw": true,
 		"isLock": true
     },
-    {
-        "name": "AV-奶香香",
-        "api": "https://Naixxzy.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
+    
     {
         "name": "AV-森林资源",
         "api": "https://slapibf.com/api.php/provide/vod",
         "nsfw": true,
 		"isLock": true
     },
-    {
-        "name": "AV-玉兔资源",
-        "api": "https://apiyutu.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "AV-番号资源",
-        "api": "http://fhapi9.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "AV-精品资源",
-        "api": "https://www.jingpinx.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "AV-老色逼资源",
-        "api": "https://apilsbzy1.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
+    
     {
         "name": "AV-色南国",
         "api": "https://api.sexnguon.com/api.php/provide/vod",
@@ -296,24 +235,7 @@
         "nsfw": true,
 		"isLock": true
     },
-    {
-        "name": "AV-鲨鱼资源",
-        "api": "https://shayuapi.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "黄色资源",
-        "api": "https://hsckzy888.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
-    {
-        "name": "细胞采集黄色",
-        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
+    
 				{
 		"name": "天美资源",
 		"api": "https://tmyy.cc/api.php/provide/vod/",
@@ -322,13 +244,13 @@
 	  },
 	  {
 		   "name": "精东资源",
-		   "api": "http://chujia.cc/api.php/provide/vod/",
+		   "api": "http://chujia.cc/api.php/provide/vod",
 		   "nsfw": true,
 		   "isLock": true
 	  },
 	  {
 		   "name": "辣椒资源",
-		   "api": "http://api.11bat.com/api.php/provide/vod/",
+		   "api": "http://api.11bat.com/api.php/provide/vod",
 		   "nsfw": true,
 		   "isLock": true
 	  }
