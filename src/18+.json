@@ -249,7 +249,7 @@
 	  },
 			{
 		   "name": "麻豆映画",
-		   "api": "https://okzy.cc/api.php/provide/vod",#www.gcmd.cc
+		   "api": "https://okzy.cc/api.php/provide/vod", //www.gcmd.cc
 		   "nsfw": true,
 		   "isLock": true
 				}
