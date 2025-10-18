@@ -47,12 +47,7 @@
 		"nsfw": true,
 		"isLock": true
 	},
-	{
-		"name": "色南国资源",
-		"api": "https://api.sexnguon.com/api.php/provide/vod/",
-		"nsfw": true,
-		"isLock": true
-	},
+
 	{
 		"name": "大奶子资源",
 		"api": "https://apidanaizi.com/api.php/provide/vod",
