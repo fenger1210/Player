@@ -222,13 +222,6 @@
         "nsfw": true,
 		"isLock": true
     },
-    
-    {
-        "name": "AV-色南国",
-        "api": "https://api.sexnguon.com/api.php/provide/vod",
-        "nsfw": true,
-		"isLock": true
-    },
     {
         "name": "AV-色猫资源",
         "api": "https://api.maozyapi.com/inc/apijson_vod.php",
