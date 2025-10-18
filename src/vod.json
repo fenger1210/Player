@@ -196,7 +196,7 @@
   },
   {
     "name": "淘片资源",
-    "api": "https://taopianapi.com/cjapi/mc10/vod",
+    "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
     "nsfw": false
   },
   {
