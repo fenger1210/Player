@@ -276,6 +276,12 @@
 		   "api": "https://fqzy.me/api.php/provide/vod",
 		   "nsfw": true,
 		   "isLock": true
+				},
+				{
+		   "name": " CK百货",
+		   "api": "https://ckbh1.xyz/api.php/provide/vod",
+		   "nsfw": true,
+		   "isLock": true
 				}
 				
 					
