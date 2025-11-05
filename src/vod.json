@@ -175,11 +175,6 @@
     "nsfw": false
   },
   {
-    "name": "CK资源",
-    "api": "https://ckzy.me/api.php/provide/vod",
-    "nsfw": false
-  },
-  {
     "name": "卧龙资源",
     "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
     "nsfw": false
