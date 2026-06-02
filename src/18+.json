@@ -130,7 +130,7 @@
 	},
 	{
 		"name": "精品资源",
-		"api": "https://www.jingpinx.com/api.php/provide/vod/",
+		"api": "http://www.jingpinx.com/api.php/provide/vod/",
 		"nsfw": true,
 		"isLock": true
 	},
